@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728100097799",
+    "project_id": "sectionsswapping-ebc52",
+    "storage_bucket": "sectionsswapping-ebc52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728100097799:android:154179bd6b980e4331bfa2",
+        "android_client_info": {
+          "package_name": "com.mycompany.sectionsswapping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssvApcWsE8IXYOrUBums07zOl1DBc23k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728100097799:android:d7f2c67b52aa80b631bfa2",
+        "android_client_info": {
+          "package_name": "edu.dummyregistrationsystem.htu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssvApcWsE8IXYOrUBums07zOl1DBc23k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
